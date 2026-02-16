@@ -45,7 +45,7 @@ I build **contact-rich manipulation** systems with a focus on **variable impedan
 
 - Blog: https://velog.io/@woosong  
 - Website: https://songwookim.github.io  
-- Lab: https://hanlabhome.wordpress.com/
+- Linkedin: https://www.linkedin.com/in/song-woo-kim-07b61221a/
 
 ---
 
