@@ -3,9 +3,9 @@
 Robotics • Control • Teleoperation  
 I build **contact-rich manipulation** systems with a focus on **variable impedance control**, **simulation-to-real pipelines**, and **human-in-the-loop teleoperation**.
 
-- 🤖 Deformable / contact-rich manipulation, impedance & force control  
-- 🕹️ Teleoperation (hand tracking + haptics) for data collection & control prototyping  
-- 🧪 Simulation with Isaac Sim / Isaac Lab / MuJoCo + ROS 2 integration
+- Deformable / contact-rich manipulation, impedance & force control  
+- Teleoperation (hand tracking + haptics) for data collection & control prototyping  
+- Simulation with Isaac Sim / Isaac Lab / MuJoCo + ROS 2 integration
 
 ---
 
